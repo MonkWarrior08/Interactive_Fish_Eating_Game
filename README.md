@@ -7,7 +7,7 @@ In this game, you control a fish, navigate through an underwater world, and try 
 
 - **Multiplayer Support**: Play with your friends in a local multiplayer setup.
 - **Realistic Movement**: Fish movement is simulated with simple physics, providing a realistic underwater experience.
-- **Beautiful Graphics**: Enjoy a visually appealing underwater background and various fish sprites.
+- **Beautiful Graphics and Sound**: Enjoy a visually appealing underwater background with an appealing background music.
 - **Interactive Gameplay**: Compete to become the largest fish in the pond by eating smaller fish and avoiding predators.
 
 ## Installation
@@ -28,6 +28,7 @@ To play the Fish Eating Game, follow these steps:
     red_fish.png
     orange_fish.png
     npc_fish.png
+    sound.wav
 ```
 
 4. **Run the Game**: Navigate to the directory containing the game files and run the game using the command:
