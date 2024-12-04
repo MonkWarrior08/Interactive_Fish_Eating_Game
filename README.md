@@ -17,15 +17,15 @@ To play the Fish Eating Game, follow these steps:
 1. **Install Python**: Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
 
 2. **Install Pygame**: Install the Pygame library by running the following command:
-   ```bash
-   pip install pygame
-   ```
+  ```bash
+  pip install pygame
+  ```
 
 3. **Clone the repository**: Download the game files from the repository, including:
-   ```bash
-   git clone https://github.com/MonkWarrior08/Interactive_Fish_Eating_Game.git
-   cd Interactive_Fish_Eating_Game
-   ```
+  ```bash
+  git clone https://github.com/MonkWarrior08/Interactive_Fish_Eating_Game.git
+  cd Interactive_Fish_Eating_Game
+  ```
 
 4. **Run the Game**: Navigate to the directory containing the game files and run the game using the command:
   ```bash
