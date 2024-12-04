@@ -30,6 +30,9 @@ cd Interactive_Fish_Eating_Game
   ```
   python fish.py
   ```
+5. **Control**:
+   - Player 1: AWSD
+   - Player 2: arrows(up,down,right,left)
 **License**
 
 This project is licensed under the MIT License.
