@@ -20,15 +20,10 @@ To play the Fish Eating Game, follow these steps:
    ```bash
    pip install pygame
 
-3. **Download Game Files**: Download the game files from the repository, including:
-```
-    fish.py
-    underwater_background.png
-    green_fish.png
-    red_fish.png
-    orange_fish.png
-    npc_fish.png
-    sound.wav
+3. **Clone the repository**: Download the game files from the repository, including:
+```bash
+git clone https://github.com/MonkWarrior08/Interactive_Fish_Eating_Game.git
+cd Interactive_Fish_Eating_Game
 ```
 
 4. **Run the Game**: Navigate to the directory containing the game files and run the game using the command:
